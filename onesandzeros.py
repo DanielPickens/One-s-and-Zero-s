@@ -23,7 +23,7 @@ class Solution:
         
         
         
-        Success
-Details 
-Runtime: 2176 ms, faster than 89.14% of Python3 online submissions for Ones and Zeroes.
-Memory Usage: 194.2 MB, less than 18.33% of Python3 online submissions for Ones and Zeroes.
+      #  Success
+#Details 
+#Runtime: 2176 ms, faster than 89.14% of Python3 online submissions for Ones and Zeroes.
+#Memory Usage: 194.2 MB, less than 18.33% of Python3 online submissions for Ones and Zeroes.
